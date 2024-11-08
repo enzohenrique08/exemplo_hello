@@ -1,0 +1,3 @@
+/mnt/c/Users/enzoh/Downloads/exemplo/build/CMakeFiles/hello.dir
+/mnt/c/Users/enzoh/Downloads/exemplo/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/enzoh/Downloads/exemplo/build/CMakeFiles/rebuild_cache.dir
